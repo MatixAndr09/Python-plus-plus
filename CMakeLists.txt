@@ -7,4 +7,5 @@ add_executable(TypeScriptKnockoff main.cpp
         components/parser.cpp
         components/evaluator.cpp
         components/ast.cpp
-        components/lexer.cpp)
+        components/lexer.cpp
+        components/lexer.h)
